@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">loginApp</string>
+    <string name="button_login">Login</string>
+    <string name="button_login_fails">Login Fails</string>
+    <string name="username_text_hint">Enter your username</string>
+    <string name="password_text_hint">Enter your password</string>
+    <string name="username_text_title">Username</string>
+    <string name="password_text_title">Password</string>
+    <string name="login_success_msg">Login success</string>
+</resources>
